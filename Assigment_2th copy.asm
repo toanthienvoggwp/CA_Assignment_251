@@ -1,7 +1,7 @@
 .data
     # --- FILE CONFIG ---
-    input_filename:   .asciiz "input2.txt"
-    desired_filename: .asciiz "desired(1).txt"
+    input_filename:   .asciiz "input19-44-21_11-Nov-25_10_10_5.txt"
+    desired_filename: .asciiz "desired19-44-21_11-Nov-25_10_10.txt"
     outFilename:      .asciiz "output.txt"
 
     # --- VARIABLES ---
